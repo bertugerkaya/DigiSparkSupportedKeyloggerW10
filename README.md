@@ -17,7 +17,7 @@ A digispark supported keylogger.
 
 
 
-# Adımlar
+# Adımlar - Steps
 -TR-
 1-Keylogger.py dosyasını exe'ye çevirip web sunucusuna yüklüyoruz.
 2-Arduino geliştirme ortamında yazdığım kodları Digispark'a yüklüyoruz.
