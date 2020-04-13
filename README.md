@@ -1,4 +1,3 @@
--TR-
 # Keylogger
 
 Digispark Attiny85 (BAD USB) ile desteklendirilmiş keylogger. 
