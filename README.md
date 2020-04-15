@@ -1,4 +1,4 @@
-# Digispark Supported Keylogger
+# DigiSpark Supported Keylogger
 A digispark supported keylogger.Only worked on W10
 
 
